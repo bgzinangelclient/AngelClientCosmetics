@@ -4,8 +4,16 @@
       "id": "AngelCape",
       "name": "Capa Angel",
       "path": "capes/AngelCape.png"
+    },
+    {
+      "id": "SamocaCape",
+      "name": "Capa do samocakkkkk",
+      "path": "capes/Cape_base.png"
+    },
+    {
+      "id": "JesusCape",
+      "name": "The KING!",
+      "path": "capes/2.png"
     }
   ]
- }
-
-
+}
