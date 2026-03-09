@@ -1,10 +1,10 @@
 {
   "players": {
     "BGZINGAMER": {
-      "cape": "AngelCape.png"
+      "cape": "AngelCape"
     },
     "S4muelPlayer": {
-      "cape": "Cape_base.png"
+      "cape": "Cape_base"
     }
   },
   "capes": [
@@ -22,3 +22,4 @@
     }
   ]
 }
+
