@@ -14,6 +14,22 @@
       "id": "JesusCape",
       "name": "The KING!",
       "path": "capes/2.png"
-    }
+    },
+    {
+      "id": "CreeperYellow",
+      "name": "Kitty x Creeper",
+      "path": "capes/Creeperxkitty.png"
+     },
+     {
+      "id": "SamuelPlayerCape",
+      "name": "SamuelPl4yer Cape",
+      "path": "capes/Samuel.png"
+    },
+       {
+      "id": "JesusCape",
+      "name": "Jesus Cape",
+      "path": "capes/Jesus Cape.png"
+    },
   ]
 }
+
