@@ -1,25 +1,9 @@
 {
-  "players": {
-    "BGZINGAMER": {
-      "cape": "AngelCape"
-    },
-    "S4muelPlayer": {
-      "cape": "Cape_base"
-    }
-  },
   "capes": [
     {
       "id": "AngelCape",
-      "name": "Angel Cape",
-      "file": "capes/angel_wings.png",
-      "premium": false
-    },
-    {
-      "id": "Cape_base",
-      "name": "Samocaplay",
-      "file": "capes/Cape_base.png",
-      "premium": true
+      "name": "Capa Angel",
+      "path": "capes/AngelCape.png"
     }
   ]
 }
-
