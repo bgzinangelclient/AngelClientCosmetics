@@ -11,11 +11,6 @@
       "path": "capes/Cape_base.png"
     },
     {
-      "id": "JesusCape",
-      "name": "The KING!",
-      "path": "capes/2.png"
-    },
-    {
       "id": "CreeperYellow",
       "name": "Kitty x Creeper",
       "path": "capes/Creeperxkitty.png"
@@ -28,9 +23,20 @@
        {
       "id": "JesusCape",
       "name": "Jesus Cape",
-      "path": "capes/Jesus Cape.png"
-    }
+      "path": "capes/JesusCape.png"
+    },
+      {
+      "id": "KowCape",
+      "name": "Kow Cape",
+      "path": "capes/KowCape.png"
+    },
+         {
+      "id": "BlackAngel",
+      "name": "Black Angel",
+      "path": "capes/AngelBlack.png"
+    },
   ]
 }
+
 
 
