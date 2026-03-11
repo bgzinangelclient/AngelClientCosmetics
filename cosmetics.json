@@ -3,41 +3,44 @@
     {
       "id": "AngelCape",
       "name": "Capa Angel",
-      "path": "capes/AngelCape.png"
+      "file": "capes/AngelCape.png",
+      "premium": false
     },
     {
       "id": "SamocaCape",
       "name": "Capa do samocakkkkk",
-      "path": "capes/Cape_base.png"
+      "file": "capes/Cape_base.png",
+      "premium": false
     },
     {
       "id": "CreeperYellow",
       "name": "Kitty x Creeper",
-      "path": "capes/Creeperxkitty.png"
-     },
-     {
+      "file": "capes/Creeperxkitty.png",
+      "premium": false
+    },
+    {
       "id": "SamuelPlayerCape",
       "name": "SamuelPl4yer Cape",
-      "path": "capes/Samuel.png"
+      "file": "capes/Samuel.png",
+      "premium": false
     },
-       {
+    {
       "id": "JesusCape",
       "name": "Jesus Cape",
-      "path": "capes/JesusCape.png"
+      "file": "capes/JesusCape.png",
+      "premium": false
     },
-      {
+    {
       "id": "KowCape",
       "name": "Kow Cape",
-      "path": "capes/KowCape.png"
+      "file": "capes/KowCape.png",
+      "premium": false
     },
-         {
+    {
       "id": "BlackAngel",
       "name": "Black Angel",
-      "path": "capes/AngelBlack.png"
+      "file": "capes/AngelBlack.png",
+      "premium": false
     }
   ]
 }
-
-
-
-
