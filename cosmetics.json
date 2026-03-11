@@ -43,11 +43,12 @@
       "premium": false
     },
       {
-      "id": "PenguinCape",
-      "name": "Penguin Cape",
+      "id": "PenguIce",
+      "name": "Pengu Ice",
       "file": "capes/penguincape.png",
       "premium": false
     }
   ]
 }
+
 
