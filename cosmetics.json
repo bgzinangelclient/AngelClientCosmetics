@@ -41,6 +41,13 @@
       "name": "Black Angel",
       "file": "capes/AngelBlack.png",
       "premium": false
+    },
+      {
+      "id": "PenguinCape",
+      "name": "Penguin Cape",
+      "file": "capes/penguincape.png",
+      "premium": false
     }
   ]
 }
+
