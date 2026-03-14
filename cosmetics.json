@@ -41,6 +41,12 @@
       "name": "Pengu Ice",
       "file": "capes/pinguincape.png",
       "premium": false
+    },
+    {
+      "id": "pintocape",
+      "name": "Pinto Cape",
+      "file": "capes/pintocape.png",
+      "premium": false
     }
   ]
 }
