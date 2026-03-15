@@ -47,6 +47,13 @@
       "name": "Pinto Cape",
       "file": "capes/pintocape.png",
       "premium": false
+    },
+     },
+      {
+      "id": "pintoblackcape",
+      "name": "Black Pinto Ice",
+      "file": "capes/pintoblackcape.png",
+      "premium": false
     }
   ]
 }
