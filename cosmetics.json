@@ -53,6 +53,12 @@
       "name": "Black Pinto Ice",
       "file": "capes/pintoblackcape.png",
       "premium": false
+    },
+     {
+      "id": "Pombo Cape",
+      "name": "Pombo Cape",
+      "file": "capes/shimishimieicape.png",
+      "allowedPlayers": ["S4muelPlayer"]
     }
   ]
 }
