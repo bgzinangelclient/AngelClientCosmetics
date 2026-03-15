@@ -61,6 +61,12 @@
       "allowedPlayers": ["8a391411-9263-4364-a1e6-b3e9408c9b0e",
       "BGZINGAMER"
       ]
+    },
+    {
+      "id": "oleugimcape",
+      "name": "Oleugim Cape",
+      "file": "capes/oleugimCape.png",
+      "allowedPlayers": ["a07c07e6-2fc1-4fb5-8b62-bc689e19250d"]
     }
   ]
 }
