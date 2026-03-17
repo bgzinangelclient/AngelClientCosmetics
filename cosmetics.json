@@ -67,6 +67,12 @@
       "name": "Heart Cape",
       "file": "capes/HeartCape.png",
       "premium": false
+    },
+    {
+            "id": "bgcape",
+      "name": "Bgzin Cape",
+      "file": "capes/bgcape.png.png",
+      "premium": false
     }
   ]
 }
