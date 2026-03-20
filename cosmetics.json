@@ -73,6 +73,24 @@
       "name": "Bgzin Cape",
       "file": "capes/bgcape.png",
       "premium": false
+    },
+     {
+      "id": "nyancat",
+      "name": "Nyan Cape",
+      "file": "capes/nyancat.png",
+      "premium": false
+    },
+     {
+      "id": "capekitty",
+      "name": "Kitty Cape",
+      "file": "capes/Capekitty.png",
+      "premium": false
+    },
+     {
+      "id": "spydercape1",
+      "name": "Spyder Cape",
+      "file": "capes/spydercape1.png",
+      "premium": false
     }
   ]
 }
