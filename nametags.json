@@ -1,46 +1,36 @@
 {
-  "nametags": [
-    {
-      "id": "owner",
-      "name": "Owner",
-      "file": "nametags/owner.png",
-      "premium": true
+  "default": {
+    "icon": "badges/default.png"
+  },
+  "players": {
+    "BGZINGAMER": {
+      "badge": "owner"
     },
-    {
-      "id": "youtuber",
-      "name": "Youtuber",
-      "file": "nametags/youtuber.png",
-      "premium": true
+    "SpyderBw": {
+      "badge": "youtuber"
     },
-    {
-      "id": "mod",
-      "name": "Mod",
-      "file": "nametags/mod.png",
-      "premium": true
-    },
-    {
-      "id": "twich",
-      "name": "Twich",
-      "file": "nametags/twich.png",
-      "premium": true
-    },
-    {
-      "id": "tiktoker",
-      "name": "Tiktoker",
-      "file": "nametags/tiktoker.png",
-      "premium": true
-    },
-    {
-      "id": "suporte",
-      "name": "Suporte",
-      "file": "nametags/suporte.png",
-      "premium": true
-    },
-    {
-      "id": "member",
-      "name": "Membro",
-      "file": "nametags/member.png",
-      "premium": false
+    "S4muelPlayer": {
+      "badge": "mod"
     }
-  ]
+  },
+  "badges": {
+    "owner": {
+      "icon": "badges/owner.png"
+    },
+    "youtuber": {
+      "icon": "badges/youtuber.png"
+    },
+    "mod": {
+      "icon": "badges/mod.png"
+    },
+    "tiktoker": {
+      "icon": "badges/tiktoker.png"
+    },
+    "support": {
+      "icon": "badges/supore.png"
+     },
+    "streamer": {
+      "icon": "badges/twich.png"
+    }
+  }
 }
