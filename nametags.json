@@ -2,43 +2,43 @@
   "nametags": [
     {
       "id": "owner",
-      "displayName": "Owner",
+      "name": "Owner",
       "file": "nametags/owner.png",
       "premium": true
     },
     {
       "id": "youtuber",
-      "displayName": "Youtuber",
+      "name": "Youtuber",
       "file": "nametags/youtuber.png",
       "premium": true
     },
     {
       "id": "mod",
-      "displayName": "Mod",
+      "name": "Mod",
       "file": "nametags/mod.png",
       "premium": true
     },
     {
       "id": "twich",
-      "displayName": "Twich",
+      "name": "Twich",
       "file": "nametags/twich.png",
       "premium": true
     },
     {
       "id": "tiktoker",
-      "displayName": "Tiktoker",
+      "name": "Tiktoker",
       "file": "nametags/tiktoker.png",
       "premium": true
     },
     {
       "id": "suporte",
-      "displayName": "Suporte",
+      "name": "Suporte",
       "file": "nametags/suporte.png",
       "premium": true
     },
     {
       "id": "member",
-      "displayName": "Membro",
+      "name": "Membro",
       "file": "nametags/member.png",
       "premium": false
     }
