@@ -1,45 +1,59 @@
 {
   "nametags": [
     {
+      "id": "admin",
+      "displayName": "ADMIN",
+      "file": "nametags/admin.png",
+      "color": "#FF0000",
+      "premium": true
+    },
+    {
       "id": "owner",
-      "name": "Owner",
+      "displayName": "OWNER",
       "file": "nametags/owner.png",
+      "color": "#FF0000",
       "premium": true
     },
     {
       "id": "youtuber",
-      "name": "Youtuber",
+      "displayName": "YOUTUBER",
       "file": "nametags/youtuber.png",
+      "color": "#FF00FF",
       "premium": true
     },
     {
       "id": "mod",
-      "name": "Mod",
+      "displayName": "MOD",
       "file": "nametags/mod.png",
+      "color": "#00FF00",
       "premium": true
     },
     {
       "id": "twich",
-      "name": "Twich",
+      "displayName": "TWITCH",
       "file": "nametags/twich.png",
+      "color": "#9146FF",
       "premium": true
     },
     {
       "id": "tiktoker",
-      "name": "Tiktoker",
+      "displayName": "TIKTOKER",
       "file": "nametags/tiktoker.png",
+      "color": "#00F2EA",
       "premium": true
     },
     {
       "id": "suporte",
-      "name": "Suporte",
+      "displayName": "SUPORTE",
       "file": "nametags/suporte.png",
+      "color": "#FFFF00",
       "premium": true
     },
     {
       "id": "member",
-      "name": "Membro",
+      "displayName": "MEMBRO",
       "file": "nametags/member.png",
+      "color": "#AAAAAA",
       "premium": false
     }
   ]
