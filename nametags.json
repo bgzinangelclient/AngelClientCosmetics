@@ -50,6 +50,13 @@
       "premium": true
     },
     {
+      "id": "manager",
+      "displayName": "Manager",
+      "file": "nametags/manager.png",
+      "color": "#FF0000",
+      "premium": true
+    },
+    {
       "id": "member",
       "displayName": "MEMBRO",
       "file": "nametags/member.png",
