@@ -1,6 +1,6 @@
 {
   "default": {
-    "icon": "badges/default.png"
+    "icon": "nametags/members.png"
   },
   "players": {
     "BGZINGAMER": {
@@ -15,22 +15,22 @@
   },
   "badges": {
     "owner": {
-      "icon": "badges/owner.png"
+      "icon": "nametags/owner.png"
     },
     "youtuber": {
-      "icon": "badges/youtuber.png"
+      "icon": "nametags/youtuber.png"
     },
     "mod": {
-      "icon": "badges/mod.png"
+      "icon": "nametags/mod.png"
     },
     "tiktoker": {
-      "icon": "badges/tiktoker.png"
+      "icon": "nametags/tiktoker.png"
     },
     "support": {
-      "icon": "badges/supore.png"
+      "icon": "nametags/supore.png"
      },
     "streamer": {
-      "icon": "badges/twich.png"
+      "icon": "nametags/twich.png"
     }
   }
 }
