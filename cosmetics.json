@@ -91,6 +91,18 @@
       "name": "Spyder Cape",
       "file": "capes/spydercape1.png",
       "premium": false
-    }
+    },
+    {
+      "id": "McLarenMP4",
+      "name": "MP4 Cape",
+      "file": "capes/McLarenMP4.png",
+      "premium": false
+    },
+    {
+      "id": "SennaHelmet",
+      "name": "Senna Helmet",
+      "file": "capes/SennaHelmet.png",
+      "premium": false
+    },
   ]
 }
