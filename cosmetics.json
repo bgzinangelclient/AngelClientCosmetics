@@ -36,7 +36,7 @@
       "file": "capes/AngelBlack.png",
       "premium": false
     },
-      {
+    {
       "id": "pinguincape",
       "name": "Pengu Ice",
       "file": "capes/pinguincape.png",
@@ -48,18 +48,19 @@
       "file": "capes/pintocape.png",
       "premium": false
     },
-      {
+    {
       "id": "pintoblackcape",
       "name": "Black Pinto",
       "file": "capes/pintoblackcape.png",
       "premium": false
     },
-     {
+    {
       "id": "PomboCape",
       "name": "Pombo Cape",
       "file": "capes/shimishimieicape.png",
-      "allowedPlayers": ["8a391411-9263-4364-a1e6-b3e9408c9b0e",
-      "BGZINGAMER"
+      "allowedPlayers": [
+        "8a391411-9263-4364-a1e6-b3e9408c9b0e",
+        "BGZINGAMER"
       ]
     },
     {
@@ -74,19 +75,19 @@
       "file": "capes/bgcape.png",
       "premium": false
     },
-     {
+    {
       "id": "nyancat",
       "name": "Nyan Cape",
       "file": "capes/nyancat.png",
       "premium": false
     },
-     {
+    {
       "id": "capekitty",
       "name": "Kitty Cape",
       "file": "capes/Capekitty.png",
       "premium": false
     },
-     {
+    {
       "id": "spydercape1",
       "name": "Spyder Cape",
       "file": "capes/spydercape1.png",
@@ -108,7 +109,10 @@
       "id": "Tyrone",
       "name": "Tyrone Cape",
       "file": "capes/Tyrone.png",
-      "allowedPlayers": ["8a391411-9263-4364-a1e6-b3e9408c9b0e",
-      "S4muelPlayer"
+      "allowedPlayers": [
+        "8a391411-9263-4364-a1e6-b3e9408c9b0e",
+        "S4muelPlayer"
+      ]
+    }
   ]
 }
