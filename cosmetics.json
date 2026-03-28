@@ -131,6 +131,12 @@
       "name": "Taboo Cape",
       "file": "capes/taboocape.png",
       "premium": false
+    },
+    {
+      "id": "nadercape",
+      "name": "Nader Cape",
+      "file": "capes/nadercape.png",
+      "premium": false
     }
   ]
 }
