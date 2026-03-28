@@ -125,6 +125,12 @@
       "name": "Absolute Buzz",
       "file": "capes/absolutebiel.png",
       "premium": false
+    },
+    {
+      "id": "taboocape",
+      "name": "Taboo Cape",
+      "file": "capes/taboocape.png",
+      "premium": false
     }
   ]
 }
