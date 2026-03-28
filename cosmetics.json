@@ -119,6 +119,12 @@
       "name": "Buzz Bi3l",
       "file": "capes/biel.png",
       "premium": false
+    },
+    {
+      "id": "absolutebiel",
+      "name": "Absolute Buzz",
+      "file": "capes/absolutebiel.png",
+      "premium": false
     }
   ]
 }
