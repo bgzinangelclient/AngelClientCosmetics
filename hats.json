@@ -1,14 +1,16 @@
-[
-  {
-    "id": "tophat",
-    "name": "Top Hat",
-    "premium": false,
-    "allowedPlayers": ["S4muelPlayer"]
-  },
-  {
-    "id": "wizardhat",
-    "name": "Wizard Hat",
-    "premium": true,
-    "requiredTag": "owner"
-  }
-]
+{
+  "hats": [
+    {
+      "id": "angel",
+      "name": "Angel Hat",
+      "premium": false,
+      "allowedPlayers": ["S4muelPlayer"]
+    },
+    {
+      "id": "wizardhat",
+      "name": "Wizard Hat",
+      "premium": true,
+      "allowedTags": ["owner"]
+    }
+  ]
+}
