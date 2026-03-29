@@ -137,6 +137,12 @@
       "name": "Nader Cape",
       "file": "capes/nadercape.png",
       "premium": false
+    },
+    {
+      "id": "nerfadocape",
+      "name": "Nerfado Cape",
+      "file": "capes/nerfadocape.png",
+      "premium": false
     }
   ]
 }
