@@ -3,15 +3,9 @@
     {
       "id": "angel",
       "name": "Angel Hat",
-      "file": "hats/angel.json",
+      "file": "hats/angel.bbmodel",
       "premium": false,
       "allowedPlayers": ["S4muelPlayer"]
-    },
-    {
-      "id": "wizardhat",
-      "name": "Wizard Hat",
-      "file": "hats/wizardhat.json",
-      "premium": true
     }
   ]
 }
