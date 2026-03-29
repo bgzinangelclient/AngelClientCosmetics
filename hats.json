@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tophat",
+    "name": "Top Hat",
+    "premium": false,
+    "allowedPlayers": ["S4muelPlayer"]
+  },
+  {
+    "id": "wizardhat",
+    "name": "Wizard Hat",
+    "premium": true,
+    "requiredTag": "owner"
+  }
+]
