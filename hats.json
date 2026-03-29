@@ -1,9 +1,9 @@
 {
   "hats": [
     {
-      "id": "angel",
-      "name": "Angel Hat",
-      "file": "hats/angel.json",
+      "id": "meuChapeu",
+      "name": "Meu Chapéu",
+      "file": "hats/meuChapeu/model.obj",
       "premium": false,
       "allowedPlayers": ["S4muelPlayer"]
     }
