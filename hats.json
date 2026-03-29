@@ -3,7 +3,7 @@
     {
       "id": "angel",
       "name": "Angel Hat",
-      "file": "hats/angel.bbmodel",
+      "file": "hats/angel.json",
       "premium": false,
       "allowedPlayers": ["S4muelPlayer"]
     }
