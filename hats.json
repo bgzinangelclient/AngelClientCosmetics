@@ -3,14 +3,15 @@
     {
       "id": "angel",
       "name": "Angel Hat",
+      "file": "hats/angel.json",
       "premium": false,
       "allowedPlayers": ["S4muelPlayer"]
     },
     {
       "id": "wizardhat",
       "name": "Wizard Hat",
-      "premium": true,
-      "allowedTags": ["owner"]
+      "file": "hats/wizardhat.json",
+      "premium": true
     }
   ]
 }
