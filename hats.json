@@ -4,6 +4,7 @@
       "id": "Angel",
       "name": "Angel Hat",
       "file": "hats/AngelHat/angel.obj",
+      "texture": "hats/AngelHat/texture.png",
       "premium": false,
       "allowedPlayers": ["S4muelPlayer"]
     }
