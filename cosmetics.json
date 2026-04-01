@@ -28,7 +28,11 @@
       "id": "KowCape",
       "name": "Kow Cape",
       "file": "capes/KowCape.png",
-      "premium": false
+      "allowedPlayers": [
+        "wDreamx",
+        "BGZINGAMER",
+        "p_ofc"
+      ]
     },
     {
       "id": "BlackAngel",
@@ -141,8 +145,27 @@
     {
       "id": "nerfadocape",
       "name": "Nerfado Cape",
-      "file": "capes/nerfadocape.png",
+      "file": "capes/Nerfado.png",
       "premium": false
-    }
+    },
+     {
+      "id": "lenom",
+      "name": "Lenom Cape",
+      "file": "capes/lenom.png",
+      "premium": false
+    },
+     {
+      "id": "deckk",
+      "name": "Deck Cape",
+      "file": "capes/deckk.png",
+      "premium": false
+    },
+     {
+      "id": "pjv",
+      "name": "PJV Cape",
+      "file": "capes/pjv.png",
+      "premium": false
+    },
+    
   ]
 }
