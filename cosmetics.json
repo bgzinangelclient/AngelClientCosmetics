@@ -166,6 +166,11 @@
       "file": "capes/pjv.png",
       "premium": false
     },
-    
+     {
+      "id": "witer",
+      "name": "Wither Cape",
+      "file": "capes/witercape.png",
+      "premium": false
+    }
   ]
 }
