@@ -62,6 +62,13 @@
       "file": "nametags/member.png",
       "color": "#AAAAAA",
       "premium": false
+    },
+     {
+      "id": "vazador",
+      "displayName": "vazador",
+      "file": "nametags/VAZADOR.png",
+      "color": "#FF0000",
+      "premium": true
     }
   ]
 }
