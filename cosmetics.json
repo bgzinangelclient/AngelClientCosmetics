@@ -171,6 +171,14 @@
       "name": "Wither Cape",
       "file": "capes/witercape.png",
       "premium": false
-    }
+    },
+     {
+      "id": "oleugincape",
+      "name": "Leguin Cape",
+      "file": "capes/oleugimCape.png",
+      "allowedPlayers": [
+        "oleugim"
+      ]
+    },
   ]
 }
