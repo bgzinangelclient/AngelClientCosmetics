@@ -68,12 +68,6 @@
       ]
     },
     {
-      "id": "heartcape",
-      "name": "Heart Cape",
-      "file": "capes/HeartCape.png",
-      "premium": false
-    },
-    {
       "id": "bgcape",
       "name": "Bgzin Cape",
       "file": "capes/bgcape.png",
@@ -117,18 +111,6 @@
         "8a391411-9263-4364-a1e6-b3e9408c9b0e",
         "S4muelPlayer"
       ]
-    },
-    {
-      "id": "biel",
-      "name": "Buzz Bi3l",
-      "file": "capes/biel.png",
-      "premium": false
-    },
-    {
-      "id": "absolutebiel",
-      "name": "Absolute Buzz",
-      "file": "capes/absolutebiel.png",
-      "premium": false
     },
     {
       "id": "taboocape",
@@ -179,6 +161,18 @@
       "allowedPlayers": [
         "oleugim"
       ]
+    },
+     {
+      "id": "thzincape",
+      "name": "THZIN Cape",
+      "file": "capes/thzin.png",
+      "premium": false
+    },
+    {
+      "id": "niclzz8",
+      "name": "Make your game",
+      "file": "capes/niclzz8.png",
+      "premium": false
     },
   ]
 }
