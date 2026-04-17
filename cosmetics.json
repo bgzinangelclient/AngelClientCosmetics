@@ -109,7 +109,7 @@
       "file": "capes/Tyrone.png",
       "allowedPlayers": [
         "8a391411-9263-4364-a1e6-b3e9408c9b0e",
-        "S4muelPlayer"
+        "s4pl"
       ]
     },
     {
@@ -130,31 +130,31 @@
       "file": "capes/nerfardo.png",
       "premium": false
     },
-     {
+    {
       "id": "lenom",
       "name": "Lenom Cape",
       "file": "capes/lenom.png",
       "premium": false
     },
-     {
+    {
       "id": "deckk",
       "name": "Deck Cape",
       "file": "capes/deckk.png",
       "premium": false
     },
-     {
+    {
       "id": "pjv",
       "name": "PJV Cape",
       "file": "capes/pjv.png",
       "premium": false
     },
-     {
+    {
       "id": "witer",
       "name": "Wither Cape",
       "file": "capes/witercape.png",
       "premium": false
     },
-     {
+    {
       "id": "oleugincape",
       "name": "Leguin Cape",
       "file": "capes/oleugimCape.png",
@@ -162,7 +162,7 @@
         "oleugim"
       ]
     },
-     {
+    {
       "id": "thzincape",
       "name": "THZIN Cape",
       "file": "capes/thzin.png",
@@ -172,6 +172,12 @@
       "id": "niclzz8",
       "name": "Make your game",
       "file": "capes/niclzz8.png",
+      "premium": false
+    },
+    {
+      "id": "Frutiger_AeroCape",
+      "name": "FrutigerAero Cape",
+      "file": "capes/Frutiger_AeroCape.png",
       "premium": false
     }
   ]
