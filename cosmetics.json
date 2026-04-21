@@ -179,6 +179,12 @@
       "name": "FrutigerAero Cape",
       "file": "capes/Frutiger_AeroCape.png",
       "premium": false
+    },
+    {
+      "id": "guixxas",
+      "name": "Guixxas Cape",
+      "file": "capes/guixxascape.png",
+      "premium": false
     }
   ]
 }
