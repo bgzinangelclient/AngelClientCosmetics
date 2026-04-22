@@ -185,6 +185,12 @@
       "name": "Guixxas Cape",
       "file": "capes/guixxascape.png",
       "premium": false
+    },
+      {
+      "id": "nxzcape",
+      "name": "NxzBr Cape",
+      "file": "capes/nxzcape.png",
+      "premium": false
     }
   ]
 }
