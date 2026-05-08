@@ -191,6 +191,15 @@
       "name": "NxzBr Cape",
       "file": "capes/nxzcape.png",
       "premium": false
-    }
+    },
+     {
+      "id": "trolagi",
+      "name": "tirica Cape",
+      "file": "capes/trolagi.png",
+      "allowedPlayers": [
+        "_Ryxel_",
+        "BGZINGAMER"
+      ]
+    },
   ]
 }
