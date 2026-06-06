@@ -1,6 +1,12 @@
 {
   "capes": [
     {
+      "id": "AngelWhite",
+      "name": "Angel White",
+      "file": "capes/capabranca.png",
+      "premium": false
+    },
+    {
       "id": "AngelCape",
       "name": "Capa Angel",
       "file": "capes/AngelCape.png",
