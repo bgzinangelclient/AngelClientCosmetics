@@ -1,6 +1,12 @@
 {
   "capes": [
     {
+      "id": "Jesus2",
+      "name": "JESUS",
+      "file": "capes/jesus2.png",
+      "premium": false
+    },
+    {
       "id": "Estrelas",
       "name": "STARS",
       "file": "capes/Estrelas.png",
