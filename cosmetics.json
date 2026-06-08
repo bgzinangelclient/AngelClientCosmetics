@@ -1,6 +1,12 @@
 {
   "capes": [
     {
+      "id": "BuracoNegro",
+      "name": "INFINITY",
+      "file": "capes/Capaburaconegro.png",
+      "premium": false
+    },
+    {
       "id": "AngelWhite",
       "name": "Angel White",
       "file": "capes/capabranca.png",
