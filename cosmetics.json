@@ -1,6 +1,18 @@
 {
   "capes": [
     {
+      "id": "cardboardangel",
+      "name": "CardboardAngel",
+      "file": "capes/cardboardangel.png",
+      "premium": false
+    },
+    {
+      "id": "frutigerCape",
+      "name": "FruitgerCape",
+      "file": "capes/frutigercape.png",
+      "premium": false
+    },
+    {
       "id": "Jesus2",
       "name": "JESUS",
       "file": "capes/jesus2.png",
