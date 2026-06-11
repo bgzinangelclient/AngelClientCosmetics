@@ -1,6 +1,12 @@
 {
   "capes": [
     {
+      "id": "peixesword",
+      "name": "Peixes",
+      "file": "capes/Peixesword.png",
+      "premium": false
+    },
+    {
       "id": "cardboardangel",
       "name": "CardboardAngel",
       "file": "capes/cardboardangel.png",
