@@ -1,6 +1,12 @@
 {
   "capes": [
     {
+      "id": "aranhacape",
+      "name": "spider of darkness",
+      "file": "capes/aranhacape.png",
+      "premium": false
+    },
+    {
       "id": "peixesword",
       "name": "Peixes",
       "file": "capes/Peixesword.png",
