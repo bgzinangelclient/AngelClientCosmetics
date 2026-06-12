@@ -1,6 +1,12 @@
 {
   "capes": [
     {
+      "id": "NoiteEstrelada",
+      "name": "CelestNight",
+      "file": "capes/estreladavangogh.png",
+      "premium": false
+    },
+    {
       "id": "aranhacape",
       "name": "spider of darkness",
       "file": "capes/aranhacape.png",
