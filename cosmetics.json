@@ -1,6 +1,12 @@
 {
   "capes": [
     {
+      "id": "heart",
+      "name": "Heart Cape",
+      "file": "capes/heart.png",
+      "premium": false
+    },
+    {
       "id": "NoiteEstrelada",
       "name": "CelestNight",
       "file": "capes/estreladavangogh.png",
