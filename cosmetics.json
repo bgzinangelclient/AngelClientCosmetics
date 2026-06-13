@@ -4,8 +4,7 @@
       "id": "ClanAngx",
       "name": "ANGX CAPE",
       "file": "capes/capeangx.png",
-      "allowedPlayers": 
-        "SpyderBw"
+      "premium": false
     },
     {
       "id": "heart",
