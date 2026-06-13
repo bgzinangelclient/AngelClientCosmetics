@@ -5,7 +5,7 @@
       "name": "ANGX CAPE",
       "file": "capes/capeangx.png",
       "allowedPlayers": [
-        "SpyderBw",
+        "SpyderBw"
     },
     {
       "id": "heart",
