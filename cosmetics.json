@@ -4,7 +4,7 @@
       "id": "ClanAngx",
       "name": "ANGX CAPE",
       "file": "capes/capeangx.png",
-      "allowedPlayers": [
+      "allowedPlayers": 
         "SpyderBw"
     },
     {
@@ -137,7 +137,8 @@
       "file": "capes/shimishimieicape.png",
       "allowedPlayers": [
         "8a391411-9263-4364-a1e6-b3e9408c9b0e",
-        "BGZINGAMER"
+        "BGZINGAMER",
+        "SpyderBw"
       ]
     },
     {
