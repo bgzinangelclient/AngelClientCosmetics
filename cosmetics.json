@@ -1,12 +1,6 @@
 {
   "capes": [
     {
-      "id": "ClanAngx",
-      "name": "ANGX CAPE",
-      "file": "capes/capeangx.png",
-      "premium": false
-    },
-    {
       "id": "heart",
       "name": "Heart Cape",
       "file": "capes/heart.png",
