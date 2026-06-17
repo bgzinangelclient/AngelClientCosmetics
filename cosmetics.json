@@ -1,6 +1,16 @@
 {
   "capes": [
     {
+      "id": "ClanAngx",
+      "name": "ANGX CAPE",
+      "file": "capes/capeangx.png",
+     "allowedPlayers": [
+        "SpyderBw",
+        "Kittyelow",
+        "L7BW"
+      ]
+    },
+    {
       "id": "heart",
       "name": "Heart Cape",
       "file": "capes/heart.png",
